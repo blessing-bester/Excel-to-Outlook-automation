@@ -14,5 +14,5 @@ This is a Python-based automation solution for a real estate company to process 
 <a href="https://img.shields.io/badge/OpenPyXL-Excel_Manipulation-green?logo=Microsoft-Excel" target="blank"><img align="center" src="https://img.shields.io/badge/OpenPyXL-Excel_Manipulation-green?logo=Microsoft-Excel" alt="https://img.shields.io/badge/OpenPyXL-Excel_Manipulation-green?logo=Microsoft-Excel" height="40" width="auto" /></a>  
 <a href="https://img.shields.io/badge/pywin32-Windows_COM_Automation-red?logo=microsoft" target="blank"><img align="center" src="https://img.shields.io/badge/pywin32-Windows_COM_Automation-red?logo=microsoft" alt="https://img.shields.io/badge/pywin32-Windows_COM_Automation-red?logo=microsoft" height="40" width="auto" /></a>   
 
-
+![Folder Structure Diagram](images/folder_structure.png)
 
