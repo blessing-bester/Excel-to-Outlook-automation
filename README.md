@@ -15,16 +15,4 @@ This is a Python-based automation solution for a real estate company to process 
 <a href="https://img.shields.io/badge/pywin32-Windows_COM_Automation-red?logo=microsoft" target="blank"><img align="center" src="https://img.shields.io/badge/pywin32-Windows_COM_Automation-red?logo=microsoft" alt="https://img.shields.io/badge/pywin32-Windows_COM_Automation-red?logo=microsoft" height="40" width="auto" /></a>   
 
 
-# Folder Structure
-Reamortization-Schedules/
-├── src/
-│   └── statements.py             # Main automation script
-├── config/                       # Configuration directory
-│   └── config.py                 # Configuration settings 
-├── docs/
-│   └── architecture.md           # System architecture overview
-├── samples/                      # Sample files 
-│   ├── master_amortization.xlsx  # Master workbook
-│   └── customer_emails.csv       # Email mapping
-├── requirements.txt              # Python dependencies
-└── README.md                     # This file
+
